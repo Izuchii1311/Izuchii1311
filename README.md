@@ -1,10 +1,6 @@
 <h1 align="center">I'm Izuchii</h1>
 <h3 align="center">A passionate Frontend, Backend developer and Graphic Designer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izuchii1311&label=Profile%20views&color=0e75b6&style=flat" alt="izuchii1311" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izuchii1311" alt="izuchii1311" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/izuchii3" target="blank"><img src="https://img.shields.io/twitter/follow/izuchii3?logo=twitter&style=for-the-badge" alt="izuchii3" /></a> </p>
 
 - 🌱 I’m currently learning **React, Vue, Flutter**
@@ -25,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izuchii1311&show_icons=true&locale=en&layout=compact" alt="izuchii1311" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izuchii1311&" alt="izuchii1311" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=izuchii1311&" alt="izuchii1311" /></p>

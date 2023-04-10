@@ -4,9 +4,11 @@
 
 <p align="center">
 - 🌱 I’m currently learning **React, Vue, Flutter**
-
+</p>
+<p align="center">
 - 💬 Ask me about **React, Vue, Laravel, PHP, Java, JS, Bootstrap, Python**
-
+</p>
+<p align="center">
 - ⚡ Fun fact **I am Anime**
 </p>
 

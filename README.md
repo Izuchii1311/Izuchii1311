@@ -1,4 +1,4 @@
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/205/574/486/sorrowny-hololive-virtual-youtuber-nakiri-ayame-anime-girls-hd-wallpaper-preview.jpg)
+<p align="center"><img src="https://c4.wallpaperflare.com/wallpaper/205/574/486/sorrowny-hololive-virtual-youtuber-nakiri-ayame-anime-girls-hd-wallpaper-preview.jpg"></p>
 <h1 align="center">I'm Izuchii</h1>
 <h3 align="center">A passionate Frontend, Backend developer and Graphic Designer from Indonesia</h3>
 

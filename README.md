@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Izuchii</h1>
+<h1 align="center">I'm Izuchii</h1>
 <h3 align="center">A passionate Frontend, Backend developer and Graphic Designer from India</h3>
+<img align="center" alt="" width="400" src="https://tenor.com/search/vtuber-gifs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izuchii1311&label=Profile%20views&color=0e75b6&style=flat" alt="izuchii1311" /> </p>
 

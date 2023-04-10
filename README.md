@@ -15,7 +15,7 @@
       <div class="wrapper-content">
         <div class="container">
           <aside class="profile">
-            <img src="https://pbs.twimg.com/media/FtW3WEgaAAA35-j?format=jpg&name=small" style="background-size:cover;" class="avatar" alt="Gabriel de Jesus">
+            <img src="https://pbs.twimg.com/media/FtW3WEgaAAA35-j?format=jpg&name=small" class="avatar" alt="Gabriel de Jesus">
           </aside>
           
         </div>

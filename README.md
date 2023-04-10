@@ -1,17 +1,16 @@
 <h1 align="center">I'm Izuchii</h1>
 <h3 align="center">A passionate Frontend, Backend developer and Graphic Designer from Indonesia</h3>
 
-<p align="left"> <a href="https://twitter.com/izuchii3" target="blank"><img src="https://img.shields.io/twitter/follow/izuchii3?logo=twitter&style=for-the-badge" alt="izuchii3" /></a> </p>
-<p align="left"> <a href="https://facebook.com/izuchii3" target="blank"><img src="https://img.shields.io/facebook/follow/izuchii3?logo=facebook&style=for-the-badge" alt="Izuchii" /></a> </p>
-<p align="left"> <a href="https://instagram.com/izuchii3" target="blank"><img src="https://img.shields.io/instagram/follow/izuchii3?logo=instagram&style=for-the-badge" alt="izuchii13" /></a> </p>
+#<p align="left"> <a href="https://twitter.com/izuchii3" target="blank"><img src="https://img.shields.io/twitter/follow/izuchii3?logo=twitter&style=for-the-badge" alt="izuchii3" /></a> </p>
+
 - 🌱 I’m currently learning **React, Vue, Flutter**
 
 - 💬 Ask me about **React, Vue, Laravel, PHP, Java, JS, Bootstrap, Python**
 
 - ⚡ Fun fact **I am Anime**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/izuchii3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izuchii3" height="30" width="40" /></a>
 <a href="https://fb.com/izuchii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="izuchii" height="30" width="40" /></a>
 <a href="https://instagram.com/izuchii13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izuchii13" height="30" width="40" /></a>

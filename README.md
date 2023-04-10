@@ -4,62 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .container {
-        display: flex;
-        width: 1200px;
-        padding: 0 30px;
-        justify-content: space-between;
-        }
-
-
-        div.banner {
-        width: 100%;
-        height: 400px;
-        color: #FFF;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background: rgb(243, 50, 117);
-        }
-
-
-        .wrapper-content {
-        display: flex;
-        justify-content: center;
-        }
-
-        .wrapper-content aside.profile {
-        width: 260px;
-        }
-
-        .wrapper-content aside.profile img.avatar {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        margin-top: -100px;
-        margin-left: 450px;
-        border: 5px solid #FFF;
-        }
-
-        .wrapper-content aside.profile h1 {
-        font-size: 21px;
-        margin-top: 10px;
-        color: #1f2226;
-        }
-
-        .wrapper-content aside.profile span {
-        font-size: 14px;
-        color: #53626C;
-
-        }
-
-        .wrapper-content aside.profile p {
-        font-size: 14px;
-        color: #1f2226;
-        margin-top: 15px;
-        }
-    </style>
+    
 </head>
 <body>
 

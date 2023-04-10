@@ -5,12 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        body {
-        text-rendering: optimizeLegibility !important; /* font sempre com o melhor estilo possivel */
-        -webkit-font-smoothing: antialiased !important; /* font sempre com o melhor estilo possivel */
-        padding-bottom: 100px;
-        }
-
         .container {
         display: flex;
         width: 1200px;

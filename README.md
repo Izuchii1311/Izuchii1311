@@ -2,11 +2,13 @@
 <h1 align="center">I'm Izuchii</h1>
 <h3 align="center">A passionate Frontend, Backend developer and Graphic Designer from Indonesia</h3>
 
+<p align="center">
 - 🌱 I’m currently learning **React, Vue, Flutter**
 
 - 💬 Ask me about **React, Vue, Laravel, PHP, Java, JS, Bootstrap, Python**
 
 - ⚡ Fun fact **I am Anime**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

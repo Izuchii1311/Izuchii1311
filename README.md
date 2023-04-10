@@ -9,7 +9,7 @@
 - 💬 Ask me about **React, Vue, Laravel, PHP, Java, JS, Bootstrap, Python**
 </p>
 <p align="center">
-- ⚡ Fun fact **I am Anime**
+- ⚡ Fun fact **I am Anime <img src="https://i.pinimg.com/originals/a5/38/3c/a5383cd9565316b5db8779d3875c7ac4.png" width="25" height="25">**
 </p>
 
 <h3 align="center">Connect with me:</h3>

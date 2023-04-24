@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React, Vue, Flutter**
 </p>
 <p align="center">
-- 💬 Ask me about **React, Vue, Laravel, PHP, Java, JS, Bootstrap, Python**
+- 💬 Ask me about **Hutao, Hutaoo, Hutaooo, and Hutoooooooooooooooooo**
 </p>
 <p align="center">
 - ⚡ Fun fact **I am Anime <img src="https://i.pinimg.com/originals/a5/38/3c/a5383cd9565316b5db8779d3875c7ac4.png" width="25" height="25">**

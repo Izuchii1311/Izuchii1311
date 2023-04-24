@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend, Backend developer and Graphic Designer from Indonesia</h3>
 
 <p align="center">
-- 🌱 I’m currently learning **React, Vue, Flutter**
+- 🌱 I’m currently learning **yeah, learn to more love hu tao**
 </p>
 <p align="center">
 - 💬 Ask me about **Hutao, Hutaoo, Hutaooo, and Hutoooooooooooooooooo**

@@ -1,9 +1,9 @@
 <p align="center"><img src="https://pbs.twimg.com/media/FtWkghEaYAEBGHO?format=jpg&name=small"></p>
 <h1 align="center">I'm Izuchii</h1>
-<h3 align="center">A passionate Frontend, Backend developer and Graphic Designer from Indonesia</h3>
+<h3 align="center">I Want to be Full Stack Developer, Graphic Designer, And Animeee yeaaaa....</h3>
 
 <p align="center">
-- 🌱 I’m currently learning **yeah, learn to more love hu tao**
+- 🌱 I’m currently learning, learn to more love hu tao**
 </p>
 <p align="center">
 - 💬 Ask me about **Hutao, Hutaoo, Hutaooo, and Hutoooooooooooooooooo**

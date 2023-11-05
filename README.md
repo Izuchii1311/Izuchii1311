@@ -1,4 +1,4 @@
-<p align="center"><img src="![Screenshot (68)](https://github.com/Izuchii1311/Izuchii1311/assets/82764498/d4b9c34b-d5fd-41f0-97b4-5e6ee91f1c6d)
+<p align="center"><img src="https://github.com/Izuchii1311/Izuchii1311/assets/82764498/d4b9c34b-d5fd-41f0-97b4-5e6ee91f1c6d
 format=jpg&name=small"></p>
 <h1 align="center">I'm Izuchii</h1>
 <h3 align="center">I Want to be Full Stack Developer, Graphic Designer, And Animeee yeaaaa....</h3>

@@ -3,10 +3,10 @@
 <h3 align="center">Ha Shire....</h3>
 
 <p align="center">
-- 🌱 I’m currently learning, to be web development as full stack web developer**
+- 🌟 I'm currently learning, to be web development as full stack web developer 🔥
 </p>
 <p align="center">
-- ⚡ Fun fact **I love <img src="https://camo.githubusercontent.com/f2b9d59f5d6e3c77d73dde34c5ea360d176c74dd3bcbe4ad5e920751f8be44c1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33382f33632f61353338336364393536353331366235646238373739643338373563376163342e706e67" width="25" height="25">**
+- 💖 Fun fact, I love <img src="https://camo.githubusercontent.com/f2b9d59f5d6e3c77d73dde34c5ea360d176c74dd3bcbe4ad5e920751f8be44c1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33382f33632f61353338336364393536353331366235646238373739643338373563376163342e706e67" width="25" height="25"> 💕
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

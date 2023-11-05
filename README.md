@@ -1,4 +1,5 @@
-<p align="center"><img src="https://pbs.twimg.com/media/FtWkghEaYAEBGHO?format=jpg&name=small"></p>
+<p align="center"><img src="![Screenshot (68)](https://github.com/Izuchii1311/Izuchii1311/assets/82764498/d4b9c34b-d5fd-41f0-97b4-5e6ee91f1c6d)
+format=jpg&name=small"></p>
 <h1 align="center">I'm Izuchii</h1>
 <h3 align="center">I Want to be Full Stack Developer, Graphic Designer, And Animeee yeaaaa....</h3>
 
@@ -9,8 +10,7 @@
 - 💬 Ask me about **Hutao, Hutaoo, Hutaooo, and Hutoooooooooooooooooo**
 </p>
 <p align="center">
-- ⚡ Fun fact **I am Anime <img src="![Screenshot (68)](https://github.com/Izuchii1311/Izuchii1311/assets/82764498/08d69b4e-c41d-440b-9fef-b684d7f54d1e)
-" width="25" height="25">**
+- ⚡ Fun fact **I am Anime <img src="https://camo.githubusercontent.com/f2b9d59f5d6e3c77d73dde34c5ea360d176c74dd3bcbe4ad5e920751f8be44c1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33382f33632f61353338336364393536353331366235646238373739643338373563376163342e706e67" width="25" height="25">**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

@@ -9,7 +9,8 @@
 - 💬 Ask me about **Hutao, Hutaoo, Hutaooo, and Hutoooooooooooooooooo**
 </p>
 <p align="center">
-- ⚡ Fun fact **I am Anime <img src="https://i.pinimg.com/originals/a5/38/3c/a5383cd9565316b5db8779d3875c7ac4.png" width="25" height="25">**
+- ⚡ Fun fact **I am Anime <img src="![Screenshot (68)](https://github.com/Izuchii1311/Izuchii1311/assets/82764498/08d69b4e-c41d-440b-9fef-b684d7f54d1e)
+" width="25" height="25">**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

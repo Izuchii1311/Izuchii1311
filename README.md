@@ -1,4 +1,4 @@
-<p align="center"><img src="![Sparkle](https://github.com/Izuchii1311/Izuchii1311/assets/82764498/24895464-ffd8-47a7-b86d-9ed90db7d7da)
+<p align="center"><img src="![Sparkle](https://github.com/Izuchii1311/Izuchii1311/assets/82764498/aefcffeb-f4e9-43dc-b2e8-6934d8cd86a9)
 "></p>
 <h1 align="center">Hi 👋, I'm Luthfi Nur Ramadhan</h1>
 <h3 align="center">I want to learn to be a Full Stack Developer. I also have a desire to study design.</h3>

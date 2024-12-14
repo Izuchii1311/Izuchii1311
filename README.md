@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm <b><i>Luthfi Nur Ramadhan</i></b> and I'm a beginner programmer<br>🌱 I’m currently learning Java & Vue.js<br>
+Luthfi.. :)
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Izuchii1311) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luth1311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luthfinurramadhan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@luthfiramadhan.lr55) 
